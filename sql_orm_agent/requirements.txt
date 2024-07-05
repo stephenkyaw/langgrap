@@ -1,0 +1,4 @@
+sqlalchemy
+langchain-core
+langchain-community
+#openai==0.27.0
